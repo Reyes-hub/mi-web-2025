@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://Reyes.github.io/mi-pagina-web-discoteca-chocolate/sitemap.xml

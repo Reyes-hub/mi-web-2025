@@ -1,0 +1,1 @@
+console.log("Página de la Discoteca Chocolate cargada correctamente.");
